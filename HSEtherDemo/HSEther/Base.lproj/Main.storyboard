@@ -20,9 +20,7 @@
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ao2-B4-jEB">
                                 <rect key="frame" x="37.5" y="403" width="299.5" height="61"/>
-                                <string key="text">提供 非静态库源码，包括iOS和Android
-提供 技术支持，包括iOS和Android
-联系wechat： iHoushuai</string>
+                                <string key="text"></string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
